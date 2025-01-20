@@ -1,0 +1,15 @@
+Performance English:
+{'accuracy': 0.49002, 'precision': 0.4924629304442246, 'recall': 0.49002, 'f1': 0.47138849834661617}
+
+Performance English (subset 12 classes):
+{'accuracy': 0.3809660449545672, 'precision': 0.3556198413813968, 'recall': 0.3809660449545672, 'f1': 0.3635607947183737}
+
+Performance Spanish (not prep):
+{'accuracy': 0.4984838361515136, 'precision': 0.47257674875300737, 'recall': 0.4984838361515136, 'f1': 0.4785407506536206}
+
+Performance Spanish (with emojis):
+{'accuracy': 0.46322660225111784, 'precision': 0.42831884101224943, 'recall': 0.46322660225111784, 'f1': 0.43446703519114555}
+
+Performance Spanish (no emojis):
+{'accuracy': 0.45942334378372823, 'precision': 0.4254124233898034, 'recall': 0.45942334378372823, 'f1': 0.4299521815433323}
+
